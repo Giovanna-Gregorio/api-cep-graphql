@@ -6,6 +6,7 @@ API de CEP com GRAPHQL
 - Giovanna Gregório Guimarães
 
 http://localhost:4000/graphql
+
 {
   consultaCep(cep: "17582046"){
     bairro,
